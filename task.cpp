@@ -1,3 +1,4 @@
+//вариант 4
 #include <iostream>
 #include <stdexcept>
 #include <cmath>
